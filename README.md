@@ -1,4 +1,4 @@
-Grader for CSE20
+CSE20
 
 Unzip all student submissions into one directory and edit rename_folders.py with directory path
 
