@@ -1,7 +1,7 @@
 import os
 
 # Unzip all folders to same place
-folders_path = 'path with all folders'
+folders_path = os.getcwd()
 folders = os.listdir(folders_path)
 
 # Folder name example: lnamefname_numbers_HelloWorld.zip
